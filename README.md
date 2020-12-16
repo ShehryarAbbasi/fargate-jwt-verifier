@@ -1,7 +1,7 @@
 # fargate-jwt-verifier
 
 
-### Background
+### Background: Trust but Verify
 Ever wanted to deploy a containerized JWT Amazon Cognito token verifier + have X-Ray instrumentation + using ExpressJS so you can run it on ECS Fargate? Well now you can! =P 
 
 ### Laziness
