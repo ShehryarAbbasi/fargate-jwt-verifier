@@ -2,7 +2,7 @@
 
 
 ### Background: Trust but Verify
-Ever wanted to deploy a containerized JWT Amazon Cognito token verifier + have X-Ray instrumentation + using ExpressJS so you can run it on ECS Fargate as a REST microservice? Well now you can! =P 
+Ever wanted to deploy a containerized JWT Amazon Cognito token verifier + have X-Ray tracing instrumentation + using ExpressJS so you can run it on ECS Fargate as a REST microservice? Well now you can! =P 
 
 ### Laziness
 - same codebase for versions 1 and 2
